@@ -18,3 +18,5 @@ Research and Innovation: We'll continue to invest in research and innovation to 
 Exploring Metric Research and Potential Features : Identify and delve into Metric Research to implement the possible potential features
 Community Engagement : We aim to cultivate a thriving community around the project through active participation in Hyperledger Explorer meet-ups and encouraging contributions.
 
+Hyperledger Explorer's Evolution into Blockchain Explorer Lab: The latest release of Blockchain Explorer builds upon the robust foundation of Hyperledger Explorer's codebase, infusing it with cutting-edge features and improvements. Discover the future of blockchain exploration, rooted in the reliability of its predecessor.
+
